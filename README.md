@@ -1,4 +1,4 @@
-Nome do projeto: Semafaro-Iteligente
+Nome do projeto: UrbanFlowSemafaro-Iteligente
  
 Nome do desenvolvedor: Pedro Henrique Garcia Marcusso
  
